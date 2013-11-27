@@ -191,3 +191,7 @@ function stuff_theme() {
 function theme_stuff_backup_user($variables) {
   return '<h3>' . t('Backup user') . '</h3><p>' . $variables['username'] . '</p>';
 }
+
+
+
+// This is a bit of extra text
