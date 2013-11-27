@@ -21,7 +21,6 @@ features[field_instance][] = node-article-field_tags
 features[field_instance][] = node-articles-body
 features[field_instance][] = node-articles-field_image
 features[field_instance][] = node-articles-field_tags
-features[menu_links][] = navigation_articles:node/add/articles
 features[node][] = articles
 features[taxonomy][] = tags
 features[user_permission][] = create articles content
